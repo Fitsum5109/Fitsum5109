@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fitsum5109
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html and Css
+- 🌱 I’m currently iam on Alx software engineering program 
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me in coding
 
